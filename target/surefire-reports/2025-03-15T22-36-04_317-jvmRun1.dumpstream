@@ -1,0 +1,255 @@
+# Created at 2025-03-15T22:36:04.725
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  ____    ____                 _       _          _  _                _      '.
+
+# Created at 2025-03-15T22:36:04.725
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream ' |  _"\U |  _"\ u     ___     |"|     |"|        | ||"|            U |"| u   '.
+
+# Created at 2025-03-15T22:36:04.725
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '/| | | |\| |_) |/    |_"_|  U | | u U | | u      | || |_          _ \| |/    '.
+
+# Created at 2025-03-15T22:36:04.725
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'U| |_| |\|  _ <       | |    \| |/__ \| |/__     |__   _|        | |_| |_,-. '.
+
+# Created at 2025-03-15T22:36:04.725
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream ' |____/ u|_| \_\    U/| |\u   |_____| |_____|      /|_|\          \___/-(_/  '.
+
+# Created at 2025-03-15T22:36:04.725
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  |||_   //   \\_.-,_|___|_,-.//  \\  //  \\      u_|||_u          _//       '.
+
+# Created at 2025-03-15T22:36:04.725
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream ' (__)_) (__)  (__)\_)-' '-(_/(_")("_)(_")("_)     (__)__)         (__)  '.
+
+# Created at 2025-03-15T22:36:04.789
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream ' Autotest Agent (v0.23.3)'.
+
+# Created at 2025-03-15T22:36:05.065
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '2025-03-15 17:06:04.000 INFO  [com.epam.drill.test.agent.Agent] agentOnLoad: Autotest agent has been loaded. Pid is: 27444'.
+
+# Created at 2025-03-15T22:36:05.264
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '2025-03-15 22:36:05.065 INFO  [com.epam.drill.test.agent.session.SessionController] Test session started: d1379ff7-81dc-4fa6-8243-16f056160776'.
+
+# Created at 2025-03-15T22:36:05.264
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '2025-03-15 22:36:05.264 ERROR [com.epam.drill.agent.transport.QueuedAgentMessageSender] failure: Error during message sending, current availability state: true'.
+
+# Created at 2025-03-15T22:36:05.264
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'com.epam.drill.autotest.shadow.org.apache.hc.client5.http.HttpHostConnectException: Connect to http://localhost:8090 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: no further information'.
+
+# Created at 2025-03-15T22:36:05.264
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.base/sun.nio.ch.Net.pollConnect(Native Method)'.
+
+# Created at 2025-03-15T22:36:05.264
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:672)'.
+
+# Created at 2025-03-15T22:36:05.272
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:547)'.
+
+# Created at 2025-03-15T22:36:05.272
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:602)'.
+
+# Created at 2025-03-15T22:36:05.272
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)'.
+
+# Created at 2025-03-15T22:36:05.274
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.base/java.net.Socket.connect(Socket.java:633)'.
+
+# Created at 2025-03-15T22:36:05.274
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.socket.PlainConnectionSocketFactory.lambda$connectSocket$0(PlainConnectionSocketFactory.java:91)'.
+
+# Created at 2025-03-15T22:36:05.274
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)'.
+
+# Created at 2025-03-15T22:36:05.274
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:90)'.
+
+# Created at 2025-03-15T22:36:05.274
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.socket.ConnectionSocketFactory.connectSocket(ConnectionSocketFactory.java:123)'.
+
+# Created at 2025-03-15T22:36:05.274
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:184)'.
+
+# Created at 2025-03-15T22:36:05.274
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:447)'.
+
+# Created at 2025-03-15T22:36:05.274
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:162)'.
+
+# Created at 2025-03-15T22:36:05.280
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:172)'.
+
+# Created at 2025-03-15T22:36:05.280
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:142)'.
+
+# Created at 2025-03-15T22:36:05.280
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)'.
+
+# Created at 2025-03-15T22:36:05.280
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:192)'.
+
+# Created at 2025-03-15T22:36:05.280
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)'.
+
+# Created at 2025-03-15T22:36:05.280
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96)'.
+
+# Created at 2025-03-15T22:36:05.280
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)'.
+
+# Created at 2025-03-15T22:36:05.280
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:152)'.
+
+# Created at 2025-03-15T22:36:05.280
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)'.
+
+# Created at 2025-03-15T22:36:05.280
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115)'.
+
+# Created at 2025-03-15T22:36:05.280
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)'.
+
+# Created at 2025-03-15T22:36:05.280
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170)'.
+
+# Created at 2025-03-15T22:36:05.280
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:245)'.
+
+# Created at 2025-03-15T22:36:05.280
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:188)'.
+
+# Created at 2025-03-15T22:36:05.280
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:162)'.
+
+# Created at 2025-03-15T22:36:05.280
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.agent.transport.http.HttpAgentMessageTransport.send(HttpAgentMessageTransport.kt:111)'.
+
+# Created at 2025-03-15T22:36:05.280
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.agent.transport.http.HttpAgentMessageTransport.send(HttpAgentMessageTransport.kt:43)'.
+
+# Created at 2025-03-15T22:36:05.280
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.agent.transport.QueuedAgentMessageSender.send(QueuedAgentMessageSender.kt:101)'.
+
+# Created at 2025-03-15T22:36:05.290
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.agent.transport.QueuedAgentMessageSender.send(QueuedAgentMessageSender.kt:82)'.
+
+# Created at 2025-03-15T22:36:05.290
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.test.agent.transport.TestAgentMessageSender.send(TestAgentMessageSender.kt:39)'.
+
+# Created at 2025-03-15T22:36:05.290
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.test.agent.session.SessionSenderImpl.sendSession(SessionSender.kt:31)'.
+
+# Created at 2025-03-15T22:36:05.311
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.test.agent.session.SessionController.startSession(SessionController.kt:49)'.
+
+# Created at 2025-03-15T22:36:05.311
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '2025-03-15 22:36:05.311 ERROR [com.epam.drill.agent.transport.RetryingTransportStateNotifier] retryingThread: Attempt is failed: com.epam.drill.autotest.shadow.org.apache.hc.client5.http.HttpHostConnectException: Connect to http://localhost:8090 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: no further information'.
+
+# Created at 2025-03-15T22:36:05.311
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'com.epam.drill.autotest.shadow.org.apache.hc.client5.http.HttpHostConnectException: Connect to http://localhost:8090 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: no further information'.
+
+# Created at 2025-03-15T22:36:05.316
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.base/sun.nio.ch.Net.pollConnect(Native Method)'.
+
+# Created at 2025-03-15T22:36:05.316
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:672)'.
+
+# Created at 2025-03-15T22:36:05.316
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:547)'.
+
+# Created at 2025-03-15T22:36:05.318
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:602)'.
+
+# Created at 2025-03-15T22:36:05.318
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)'.
+
+# Created at 2025-03-15T22:36:05.320
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.base/java.net.Socket.connect(Socket.java:633)'.
+
+# Created at 2025-03-15T22:36:05.320
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.socket.PlainConnectionSocketFactory.lambda$connectSocket$0(PlainConnectionSocketFactory.java:91)'.
+
+# Created at 2025-03-15T22:36:05.322
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)'.
+
+# Created at 2025-03-15T22:36:05.322
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:90)'.
+
+# Created at 2025-03-15T22:36:05.324
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.socket.ConnectionSocketFactory.connectSocket(ConnectionSocketFactory.java:123)'.
+
+# Created at 2025-03-15T22:36:05.325
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:184)'.
+
+# Created at 2025-03-15T22:36:05.325
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:447)'.
+
+# Created at 2025-03-15T22:36:05.325
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:162)'.
+
+# Created at 2025-03-15T22:36:05.327
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:172)'.
+
+# Created at 2025-03-15T22:36:05.329
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:142)'.
+
+# Created at 2025-03-15T22:36:05.329
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)'.
+
+# Created at 2025-03-15T22:36:05.329
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:192)'.
+
+# Created at 2025-03-15T22:36:05.329
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)'.
+
+# Created at 2025-03-15T22:36:05.329
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96)'.
+
+# Created at 2025-03-15T22:36:05.329
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)'.
+
+# Created at 2025-03-15T22:36:05.329
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:152)'.
+
+# Created at 2025-03-15T22:36:05.329
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)'.
+
+# Created at 2025-03-15T22:36:05.329
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115)'.
+
+# Created at 2025-03-15T22:36:05.329
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)'.
+
+# Created at 2025-03-15T22:36:05.329
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170)'.
+
+# Created at 2025-03-15T22:36:05.329
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:245)'.
+
+# Created at 2025-03-15T22:36:05.329
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:188)'.
+
+# Created at 2025-03-15T22:36:05.329
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.autotest.shadow.org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:162)'.
+
+# Created at 2025-03-15T22:36:05.329
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.agent.transport.http.HttpAgentMessageTransport.send(HttpAgentMessageTransport.kt:111)'.
+
+# Created at 2025-03-15T22:36:05.329
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.agent.transport.http.HttpAgentMessageTransport.send(HttpAgentMessageTransport.kt:43)'.
+
+# Created at 2025-03-15T22:36:05.329
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.agent.transport.RetryingTransportStateNotifier$retryingThread$1$send$1.invoke(RetryingTransportStateNotifier.kt:51)'.
+
+# Created at 2025-03-15T22:36:05.329
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.agent.transport.RetryingTransportStateNotifier$retryingThread$1$send$1.invoke(RetryingTransportStateNotifier.kt:51)'.
+
+# Created at 2025-03-15T22:36:05.329
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.agent.transport.RetryingTransportStateNotifier$retryingThread$1.invoke(RetryingTransportStateNotifier.kt:54)'.
+
+# Created at 2025-03-15T22:36:05.329
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at com.epam.drill.agent.transport.RetryingTransportStateNotifier$retryingThread$1.invoke(RetryingTransportStateNotifier.kt:49)'.
+
+# Created at 2025-03-15T22:36:05.661
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at kruntime.concurrent.ThreadsKt$thread$thread$1.run(Thread.kt:30)'.
+
+# Created at 2025-03-15T22:36:05.716
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '2025-03-15 17:06:05.000 INFO  [com.epam.drill.test.agent.Agent] agentOnUnload:  Autotest agent has been unloaded.'.
+

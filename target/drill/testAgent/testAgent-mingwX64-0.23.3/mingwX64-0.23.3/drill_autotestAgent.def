@@ -1,0 +1,8 @@
+EXPORTS
+drill_autotestAgent_symbols
+Agent_OnLoad
+Agent_OnUnload
+checkEx
+currentEnvs
+getJvm
+jvmtii
